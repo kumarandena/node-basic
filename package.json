@@ -1,0 +1,23 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "Learning node js",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarandena/node-basic.git"
+  },
+  "author": "kumarandena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarandena/node-basic/issues"
+  },
+  "homepage": "https://github.com/kumarandena/node-basic#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
